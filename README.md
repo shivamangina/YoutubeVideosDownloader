@@ -1,17 +1,17 @@
 To run this Python script, follow these steps:
 
-Install the necessary Python libraries if you haven't already. Open your terminal and run the following commands:
+1.Install the necessary Python libraries if you haven't already. Open your terminal and run the following commands:
 
 ```
 pip install pytube
 pip install requests
 ```
 
-Save the script in a file named yt.py.
+2.Save the script in a file named yt.py.
 
-In the terminal, navigate to the directory where you saved yt.py.
+3.In the terminal, navigate to the directory where you saved yt.py.
 
-Run the script by typing the following command in the terminal:
+4.Run the script by typing the following command in the terminal:
 
 ```
 python yt.py
